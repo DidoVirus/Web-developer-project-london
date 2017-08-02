@@ -1,0 +1,48 @@
+body{
+    text-align: left;
+    width: 70%;
+    margin: 10%;
+    background-image: url(../jpeg/OldPaper.jpg);
+    font-family: 'Kaushan Script', cursive;
+
+    
+}
+
+h1,h2{
+    color: #2F4F4F;
+    font-family: 'Kaushan Script', cursive;
+}
+p{
+    color: 	#B22222;
+}
+.header{
+    font-size: 150%;    
+}
+.commint-text{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
